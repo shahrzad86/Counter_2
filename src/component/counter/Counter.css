@@ -1,0 +1,18 @@
+.container{
+
+    width: 300px;
+    height: 300px;
+    margin: 20% auto;
+    border: 3px solid green;
+    border-radius: 10px;
+    background-color: rgb(180, 214, 102);
+
+}
+.btn-container{
+ margin-bottom: 0 ;
+ padding: 10px;
+
+}
+.counter{
+    margin: 0 auto;
+}
